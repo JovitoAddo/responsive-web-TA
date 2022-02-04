@@ -1,0 +1,5 @@
+01. melakukan design web yang bisa berubah-ubah otomatis tergantung seberapa besar layar yang di gunakan user untuk membuka web nya
+02. em, ex, ch, rem, vw, vh, vmin, vmax, %
+03. breakpoint adalah titik dimana design website akan berubah sesuai dengan besar nya layar. menambahkan media query di CSS
+04. flexbox
+05. grid
